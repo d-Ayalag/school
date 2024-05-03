@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background: linear-gradient(93deg, rgba(0,0,0,1) 0%, rgba(122,122,122,1) 50%, rgba(0,0,0,1) 100%);
+}
+
+p {
+    font-size: 37px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    color: red;
+    font-size: 50px;
+    font-family: Inconsolata, sans-serif;
+}
+
+h2 {
+    color: red;
+    font-size: 44px;
+    font-family: Inconsolata, sans-serif;
+}
+
+img {
+    border-radius:  15px;
+}
